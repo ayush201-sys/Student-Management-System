@@ -86,15 +86,15 @@ backend/
 
 Request body:
 
-```json
+``json
 
 {
 
-&nbsp; "name": "Ayush",
+ "name": "Ayush",
 
-&nbsp; "rollNo": 101,
+ "rollNo": 101,
 
-&nbsp; "department": "CSE"
+ "department": "CSE"
 
 }
 
