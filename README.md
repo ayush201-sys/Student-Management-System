@@ -53,22 +53,14 @@ A RESTful backend API for managing student records, built using Node.js, Express
 
 
 backend/
-
-- controllers/
-
-&nbsp; - studentController.js
-
-- models/
-
-&nbsp; - Student.js
-
-- routes/
-
-&nbsp; - studentRoutes.js
-
-- server.js
-
-- package.json
+├── controllers/
+│ └── studentController.js
+├── models/
+│ └── Student.js
+├── routes/
+│ └── studentRoutes.js
+├── server.js
+├── package.json
 
 
 
