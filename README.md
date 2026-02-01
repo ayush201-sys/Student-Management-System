@@ -95,5 +95,7 @@ Request body:
 
 }
 
+### ➕ Create Student  
 
+**POST** `/api/students`
 
