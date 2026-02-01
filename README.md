@@ -1,4 +1,4 @@
-\# Student Management System (Backend)
+# Student Management System (Backend)
 
 
 
@@ -10,37 +10,19 @@ A RESTful backend API for managing student records, built using Node.js, Express
 
 
 
-\## 🚀 Features
+## 🚀 Features
 
-\- Create a student record
+- Create a student record
 
-\- Retrieve all students
+- Retrieve all students
 
-\- Retrieve a student by roll number
+- Retrieve a student by roll number
 
-\- Update student details
+- Update student details
 
-\- Delete a student record
+- Delete a student record
 
-\- MongoDB schema validation using Mongoose
-
-
-
----
-
-
-
-\## 🛠 Tech Stack
-
-\- Node.js
-
-\- Express.js
-
-\- MongoDB
-
-\- Mongoose
-
-\- dotenv
+- MongoDB schema validation using Mongoose
 
 
 
@@ -48,41 +30,57 @@ A RESTful backend API for managing student records, built using Node.js, Express
 
 
 
-\## 📂 Project Structure
+## 🛠 Tech Stack
+
+- Node.js
+
+- Express.js
+
+- MongoDB
+
+- Mongoose
+
+- dotenv
+
+
+
+---
+
+
+
+## 📂 Project Structure
 
 
 
 backend/
 
-\- controllers/
+- controllers/
 
 &nbsp; - studentController.js
 
-\- models/
+- models/
 
 &nbsp; - Student.js
 
-\- routes/
+- routes/
 
 &nbsp; - studentRoutes.js
 
-\- server.js
+- server.js
 
-\- package.json
+- package.json
 
 
 
 ---
 
 
-
-\## 📡 API Endpoints
-
+## 📡 API Endpoints
 
 
-\### ➕ Create Student  
+### ➕ Create Student  
 
-\*\*POST\*\* `/api/students`
+*\*POST\*\* `/api/students`
 
 
 
