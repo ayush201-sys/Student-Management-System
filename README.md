@@ -94,8 +94,28 @@ Request body:
  "department": "CSE"
 
 }
+```
 
-### ➕ Create Student  
+### 📄 Get All Students  
 
-**POST** `/api/students`
+**GET** `/api/students`
 
+### 🔍 Get Student by Roll Number
+
+**GET** ` /api/students/:rollNo`
+
+### ✏️ Update Student
+
+**PUT** ` /api/students/:rollNo`
+Request body:
+
+```json
+{
+
+ "department": "MECH"
+
+}
+```
+### ❌ Delete Student
+
+**DELETE** ` /api/students/:rollNo`
