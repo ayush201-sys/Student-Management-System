@@ -95,6 +95,7 @@ Request body:
 
 }
 ```
+---
 
 ### 📄 Get All Students  
 
