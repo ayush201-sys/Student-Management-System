@@ -80,7 +80,7 @@ backend/
 
 ### ➕ Create Student  
 
-*\*POST\*\* `/api/students`
+**POST** `/api/students`
 
 Request body:
 
