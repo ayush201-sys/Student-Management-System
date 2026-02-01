@@ -107,6 +107,7 @@ Request body:
 ### ✏️ Update Student
 
 **PUT** ` /api/students/:rollNo`
+
 Request body:
 
 ```json
