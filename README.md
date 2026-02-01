@@ -82,12 +82,9 @@ backend/
 
 *\*POST\*\* `/api/students`
 
-
-
 Request body:
 
-``json
-
+```json
 {
 
  "name": "Ayush",
