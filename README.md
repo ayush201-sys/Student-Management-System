@@ -51,7 +51,7 @@ A RESTful backend API for managing student records, built using Node.js, Express
 ## 📂 Project Structure
 
 
-
+```
 backend/
 ├── controllers/
 │ └── studentController.js
@@ -61,7 +61,7 @@ backend/
 │ └── studentRoutes.js
 ├── server.js
 ├── package.json
-
+```
 
 
 ---
